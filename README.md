@@ -5,7 +5,7 @@
 
 <!-- Typing SVG tagline -->
 <a href="https://github.com/albinbiju03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Apps+with+Django+%26+JavaScript;Final-Year+BCA+Graduate+%7C+St+Paul's+College,+Bangalore;Python+Programming+Intern+at+Oasis+Infobyte;Open+to+Junior+Full-Stack+%2F+Python+Developer+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Apps+with+Django+%26+JavaScript;BCA+Graduate+%7C+St+Paul's+College,+Bangalore;Python+Programming+Intern+at+Oasis+Infobyte;Open+to+Junior+Full-Stack+%2F+Python+Developer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
