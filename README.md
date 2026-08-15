@@ -23,13 +23,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year **BCA** graduate at **St Paul's College, Bangalore University** (2023 – 2026)
+- 🎓 Final-year **BCA** graduate at **St Paul's College, Bangalore University** (CGPA: 7.14)
 - 💻 Hands-on experience building **full-stack web applications** with Django, Node.js, SQLite & JavaScript
 - 🐍 Completed a **Python Programming Internship** at **Oasis Infobyte** — debugging & performance optimization
+- 🤖 Familiar with AI-assisted coding tools (GitHub Copilot, ChatGPT) for accelerated development
 - 🚀 Seeking a **Junior Full-Stack / Python Developer** role to bring practical project experience to a product team
-- 📜 Certified in **Artificial Intelligence** and **Cybersecurity**
+- 📜 Certified in **Artificial Intelligence** and **Cybersecurity (IBM)**
 - 🌐 Speak **English, Tamil, Malayalam, Kannada & Hindi**
-- 🔗 **Portfolio:** [albin-portfolio-delta.vercel.app](https://albin-portfolio-delta.vercel.app/)
 - 📫 Reach me at **albinbiju0330@gmail.com**
 
 <br/>
@@ -44,7 +44,10 @@
 
 **Frameworks, Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=django,git,github,sqlite,vscode,pycharm,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,git,github,sqlite,vscode,pycharm,figma,linux,vercel&theme=dark" />
+
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -71,25 +74,19 @@
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=albinbiju03&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 ### 🥗 Nutri Bowl — Full-Stack Meal Subscription Platform
 `Django` `Python` `SQLite` `HTML5` `CSS3` `JavaScript` `Git/GitHub` `Razorpay`
-- Built a full-stack meal subscription platform with 1, 3, and 6-month plans — including user authentication, subscription management, and billing simulation
+- Built a full-stack meal subscription platform with 1, 3, and 6-month plans, including a home delivery option[cite: 1]
+- Implemented user authentication, session management, and integrated Django's email backend for automated order confirmation emails[cite: 1]
 - Designed a responsive, mobile-friendly UI and integrated **Razorpay** as the payment gateway
 
 ### 🦷 Smile Care Dental — Clinic Management & Appointment Booking System
 `Django` `Python` `SQLite` `HTML5` `CSS3` `JavaScript` `Git/GitHub`
-- Developed a responsive dental clinic website with an online appointment booking system, backed by a secure Django + SQLite backend
-- Implemented JavaScript form validation with cross-browser compatibility for a smooth user experience
+- Designed a relational database schema with 7 models (Patient, Doctor, Review, and others) using Django ORM[cite: 1]
+- Built patient registration and secure login with Django Authentication, featuring role-based access and session management[cite: 1]
+- Integrated Django's email backend to send automated appointment confirmation emails and implemented JavaScript form validation[cite: 1]
 
 <div align="center">
 
@@ -99,8 +96,6 @@
 <a href="https://github.com/albinbiju03/smile-care-dental">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=albinbiju03&repo=smile-care-dental&theme=tokyonight&hide_border=true"/>
 </a>
-
-<sub>*(update repo names above to match your actual GitHub repository names)*</sub>
 
 </div>
 
@@ -115,18 +110,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Certified-Artificial%20Intelligence-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Certified-Cybersecurity-critical?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Great
-
-<img src="https://komarev.com/ghpvc/?username=albinbiju03&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-
-<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://img.shields.io/badge/Certified-Cybersecurity%20(IBM)-critical?style=for-the-badge"/>
 
 </div>
