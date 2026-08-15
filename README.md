@@ -23,7 +23,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year **BCA** graduate at **St Paul's College, Bangalore University** (2023 – 2026)
-- 💻 Hands-on experience building **full-stack web applications** with Django, SQLite & JavaScript
+- 💻 Hands-on experience building **full-stack web applications** with Django, Node.js, SQLite & JavaScript
 - 🐍 Completed a **Python Programming Internship** at **Oasis Infobyte** — debugging & performance optimization
 - 🚀 Seeking a **Junior Full-Stack / Python Developer** role to bring practical project experience to a product team
 - 📜 Certified in **Artificial Intelligence** and **Cybersecurity**
