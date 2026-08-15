@@ -11,6 +11,7 @@
 <br/>
 
 <!-- Social badges -->
+<a href="https://albin-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/albii3003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:albinbiju0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+916383764278"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -28,6 +29,7 @@
 - 🚀 Seeking a **Junior Full-Stack / Python Developer** role to bring practical project experience to a product team
 - 📜 Certified in **Artificial Intelligence** and **Cybersecurity**
 - 🌐 Speak **English, Tamil, Malayalam, Kannada & Hindi**
+- 🔗 **Portfolio:** [albin-portfolio-delta.vercel.app](https://albin-portfolio-delta.vercel.app/)
 - 📫 Reach me at **albinbiju0330@gmail.com**
 
 <br/>
