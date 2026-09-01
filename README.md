@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Albin%20Biju&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20UI/UX%20Designer%20|%20Digital%20Marketer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Albin%20Biju&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Digital%20Marketing%20|%20UI/UX%20Design&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
 
 <!-- Typing SVG tagline -->
 <a href="https://github.com/albinbiju03">
@@ -10,12 +10,12 @@
 
 <br/>
 
-<!-- Social badges -->
+<!-- Social badges with Cache-Busting -->
 <a href="https://albin-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&v=1" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/albinbiju03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:albinbiju0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="tel:+916383764278"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/></a>
-<img src="https://img.shields.io/badge/Bengaluru,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<a href="https://linkedin.com/in/albinbiju03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=1" alt="LinkedIn"/></a>
+<a href="mailto:albinbiju0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=1" alt="Email"/></a>
+<a href="tel:+916383764278"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&v=1" alt="Call"/></a>
+<img src="https://img.shields.io/badge/Bengaluru,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&v=1" alt="Location"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 - 💻 Proficient in **Python, HTML, SQL, and TypeScript**, with a solid foundation in Full-Stack development and data analysis[cite: 1].
 - 🐍 Completed a Virtual **Python Programming Internship at Oasis Infobyte** (Apr 2026 - May 2026), executing projects with core debugging techniques[cite: 1].
 - 🤖 Passionate about leveraging **AI-powered tools for rapid web development (vibe coding)** and creating user-focused solutions[cite: 1].
-- 🚀 Seeking opportunities in **Digital Marketing, UI/UX Design, and Web Development**.
+- 🚀 Seeking opportunities in **Digital Marketing, UI/UX Design, and Web Development**[cite: 1].
 - 🌐 **Languages:** Fluent in English, Malayalam, and Tamil; basic communication in Kannada and Hindi[cite: 1].
 - 📫 Reach me at **albinbiju0330@gmail.com**[cite: 1].
 
@@ -37,22 +37,15 @@
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,php,mysql,django,react,nextjs,postgres,git,github,vscode,pycharm,figma,vercel&perline=10&theme=dark" alt="Tech Stack Icons"/>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,php,mysql&theme=dark" />
+<br/><br/>
 
-**Frameworks, Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=django,react,nextjs,postgres,git,github,vscode,pycharm,figma,vercel&theme=dark" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bolt%20AI-FFD700?style=for-the-badge&logo=lightning&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Bolt%20AI-FFD700?style=for-the-badge&logo=lightning&logoColor=black" alt="Bolt AI"/>
 
 </div>
 
@@ -60,36 +53,33 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 WebAuditAI — Full-Stack Website Intelligence & Audit Platform
+**🔍 WebAuditAI — Full-Stack Website Intelligence & Audit Platform**  
 `Django REST` `PostgreSQL` `BeautifulSoup` `Gemini API`
 - Built a full-stack website auditing platform using Django REST, BeautifulSoup, Gemini API, and PostgreSQL[cite: 1].
 - Delivered automated SEO, performance, accessibility, security, and technical SEO analysis with prioritized AI recommendations[cite: 1].
+<a href="https://github.com/albinbiju03/webaudit-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albinbiju03&repo=webaudit-frontend&theme=tokyonight&hide_border=true" align="right" width="400"/></a>
 
-### 🥗 Nutri Bowl — Full-Stack Meal Subscription Platform
+<br/>
+
+**🥗 Nutri Bowl — Full-Stack Meal Subscription Platform**  
 `Django ORM` `Python` `SQLite` `HTML5` `CSS3` `JavaScript`
 - Built a meal subscription platform with tiered plans, authentication, role-based dashboards, and automated email[cite: 1].
 - Designed normalized database models using Django ORM to manage users and subscriptions[cite: 1].
+<a href="https://github.com/albinbiju03/healthfit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albinbiju03&repo=healthfit&theme=tokyonight&hide_border=true" align="right" width="400"/></a>
 
-### 🦷 SmileCare Dental — Clinic Management & Booking Platform
-`Django ORM` `Python` `SQLite` `HTML5` `CSS3` `JavaScript`
+<br/>
+
+**🦷 SmileCare Dental — Clinic Management & Booking Platform**  
+`Django ORM` `Python` `SQLite` `JavaScript`
 - Developed a dental clinic platform with service listings, patient reviews, and appointment scheduling[cite: 1].
 - Designed a relational database using 7 Django ORM models with role-based access and automated booking confirmations[cite: 1].
 
-### 🎨 Personal Portfolio Website
+<br/>
+
+**🎨 Personal Portfolio Website**  
 `React` `Next.js` `Vercel`
 - Built a responsive portfolio using React and Next.js to showcase projects and technical skills[cite: 1].
 - Developed reusable UI components and deployed the application on Vercel with continuous delivery[cite: 1].
-
-<div align="center">
-
-<a href="https://github.com/albinbiju03/webaudit-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=albinbiju03&repo=webaudit-frontend&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/albinbiju03/healthfit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=albinbiju03&repo=healthfit&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 <br/>
 
@@ -106,12 +96,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BCA-ST%20PAULS%20COLLEGE%20(2023--2026)-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BCA-ST%20PAULS%20COLLEGE%20(2023--2026)-4B0082?style=for-the-badge" alt="BCA Degree"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Certified-Artificial%20Intelligence-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Certified-Cyber%20Security%20Analyst%20(IBM)-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Certified-Artificial%20Intelligence-blue?style=for-the-badge" alt="AI Certification"/>
+<img src="https://img.shields.io/badge/Certified-Cyber%20Security%20Analyst%20(IBM)-critical?style=for-the-badge" alt="IBM Cybersecurity"/>
 
 </div>
 
@@ -121,9 +111,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=albinbiju03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=albinbiju03&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=albinbiju03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=albinbiju03&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbiju03&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinbiju03&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 
 </div>
