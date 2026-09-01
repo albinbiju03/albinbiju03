@@ -11,11 +11,11 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://albin-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/albinbiju03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:albinbiju0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+916383764278"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Bengaluru,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://albin-portfolio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&v=1" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/albinbiju03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:albinbiju0330@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="tel:+916383764278"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call"/></a>
+<img src="https://img.shields.io/badge/Bengaluru,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
