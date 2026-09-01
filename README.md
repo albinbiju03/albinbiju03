@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Albin%20Biju&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Data%20Analytics%20|%20Customer%20Support&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Albin%20Biju&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20UI/UX%20Designer%20|%20Digital%20Marketer&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing SVG tagline -->
 <a href="https://github.com/albinbiju03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Apps+%26+AI+Tools;Python+Programming+Intern+at+Oasis+Infobyte;Seeking+Data+Analytics+%26+Web+Dev+Roles;Passionate+About+AI-Powered+Vibe+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Apps+%26+AI+Tools;Python+Programming+Intern+at+Oasis+Infobyte;Seeking+Digital+Marketing,+UI%2FUX+%26+Web+Roles;Passionate+About+AI-Powered+Vibe+Coding" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 - 💻 Proficient in **Python, HTML, SQL, and TypeScript**, with a solid foundation in Full-Stack development and data analysis[cite: 1].
 - 🐍 Completed a Virtual **Python Programming Internship at Oasis Infobyte** (Apr 2026 - May 2026), executing projects with core debugging techniques[cite: 1].
 - 🤖 Passionate about leveraging **AI-powered tools for rapid web development (vibe coding)** and creating user-focused solutions[cite: 1].
-- 🚀 Seeking opportunities in **Data Analytics, Customer Support, and Web Development**[cite: 1].
+- 🚀 Seeking opportunities in **Digital Marketing, UI/UX Design, and Web Development**.
 - 🌐 **Languages:** Fluent in English, Malayalam, and Tamil; basic communication in Kannada and Hindi[cite: 1].
 - 📫 Reach me at **albinbiju0330@gmail.com**[cite: 1].
 
