@@ -23,13 +23,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BCA graduate** from ST PAULS COLLEGE, Bangalore (7.1 CGPA)[cite: 1].
-- 💻 Proficient in **Python, HTML, SQL, and TypeScript**, with a solid foundation in Full-Stack development and data analysis[cite: 1].
-- 🐍 Completed a Virtual **Python Programming Internship at Oasis Infobyte** (Apr 2026 - May 2026), executing projects with core debugging techniques[cite: 1].
-- 🤖 Passionate about leveraging **AI-powered tools for rapid web development (vibe coding)** and creating user-focused solutions[cite: 1].
+- 🎓 **BCA graduate** from ST PAULS COLLEGE, Bangalore (7.1 CGPA).
+- 💻 Proficient in **Python, HTML, SQL, and TypeScript**, with a solid foundation in Full-Stack development and data analysis.
+- 🐍 Completed a Virtual **Python Programming Internship at Oasis Infobyte** (Apr 2026 - May 2026), executing projects with core debugging techniques.
+- 🤖 Passionate about leveraging **AI-powered tools for rapid web development (vibe coding)** and creating user-focused solutions.
 - 🚀 Seeking opportunities in **Digital Marketing, UI/UX Design, and Web Development**.
-- 🌐 **Languages:** Fluent in English, Malayalam, and Tamil; basic communication in Kannada and Hindi[cite: 1].
-- 📫 Reach me at **albinbiju0330@gmail.com**[cite: 1].
+- 🌐 **Languages:** Fluent in English, Malayalam, and Tamil; basic communication in Kannada and Hindi.
+- 📫 Reach me at **albinbiju0330@gmail.com**.
 
 <br/>
 
@@ -62,23 +62,23 @@
 
 ### 🔍 WebAuditAI — Full-Stack Website Intelligence & Audit Platform
 `Django REST` `PostgreSQL` `BeautifulSoup` `Gemini API`
-- Built a full-stack website auditing platform using Django REST, BeautifulSoup, Gemini API, and PostgreSQL[cite: 1].
-- Delivered automated SEO, performance, accessibility, security, and technical SEO analysis with prioritized AI recommendations[cite: 1].
+- Built a full-stack website auditing platform using Django REST, BeautifulSoup, Gemini API, and PostgreSQL.
+- Delivered automated SEO, performance, accessibility, security, and technical SEO analysis with prioritized AI recommendations.
 
 ### 🥗 Nutri Bowl — Full-Stack Meal Subscription Platform
 `Django ORM` `Python` `SQLite` `HTML5` `CSS3` `JavaScript`
-- Built a meal subscription platform with tiered plans, authentication, role-based dashboards, and automated email[cite: 1].
-- Designed normalized database models using Django ORM to manage users and subscriptions[cite: 1].
+- Built a meal subscription platform with tiered plans, authentication, role-based dashboards, and automated email.
+- Designed normalized database models using Django ORM to manage users and subscriptions.
 
 ### 🦷 SmileCare Dental — Clinic Management & Booking Platform
 `Django ORM` `Python` `SQLite` `HTML5` `CSS3` `JavaScript`
-- Developed a dental clinic platform with service listings, patient reviews, and appointment scheduling[cite: 1].
-- Designed a relational database using 7 Django ORM models with role-based access and automated booking confirmations[cite: 1].
+- Developed a dental clinic platform with service listings, patient reviews, and appointment scheduling.
+- Designed a relational database using 7 Django ORM models with role-based access and automated booking confirmations.
 
 ### 🎨 Personal Portfolio Website
 `React` `Next.js` `Vercel`
-- Built a responsive portfolio using React and Next.js to showcase projects and technical skills[cite: 1].
-- Developed reusable UI components and deployed the application on Vercel with continuous delivery[cite: 1].
+- Built a responsive portfolio using React and Next.js to showcase projects and technical skills.
+- Developed reusable UI components and deployed the application on Vercel with continuous delivery.
 
 <div align="center">
 
@@ -95,10 +95,10 @@
 
 ## 🏆 Achievements & Leadership
 
-- **1st Place** - Best IT Manager Event, St. Paul's College Oracle Fest 2025[cite: 1].
-- **1st Place** - Intra-Collegiate Football Tournament, 2025[cite: 1].
-- **2nd Place** - College Fashion Show Event, Claret College Fest 2026[cite: 1].
-- **Leadership:** Served as Fashion Show Team Lead in an inter-collegiate fest and hosted multiple events as an Emcee[cite: 1].
+- **1st Place** - Best IT Manager Event, St. Paul's College Oracle Fest 2025.
+- **1st Place** - Intra-Collegiate Football Tournament, 2025.
+- **2nd Place** - College Fashion Show Event, Claret College Fest 2026.
+- **Leadership:** Served as Fashion Show Team Lead in an inter-collegiate fest and hosted multiple events as an Emcee.
 
 <br/>
 
